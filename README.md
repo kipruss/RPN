@@ -12,6 +12,10 @@ This project doesn't contain any buttons, only one input. Also I've not set up a
 
 In the project directory, you can run:
 
+### `yarn install`
+
+Installs dependencies.
+
 ### `yarn start`
 
 Runs the app in the development mode.<br />
