@@ -6,3 +6,15 @@
   font-size: 16px;
   margin: 0 0 10px 0;
 }
+
+.stack {
+  font-size: 30px;
+}
+
+.note {
+  text-align: right;
+}
+
+.error {
+  color: #DD2C00;
+}

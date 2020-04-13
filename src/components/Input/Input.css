@@ -1,0 +1,7 @@
+.input {
+  padding: 5px 10px;
+  background: #fff;
+  border: 1px solid #999;
+  font-size: 30px;
+  width: calc(100vw - 60px);
+}
